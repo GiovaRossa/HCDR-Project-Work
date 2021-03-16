@@ -1,8 +1,8 @@
-1) EDA
-    NaN Handling (Columns Dropping, Imputation)
-    Variables Encoding (1-HE)
-    Anomalies, Outliers
-    Correlations between variables (Pairs plot)
+1. EDA
+    a. NaN Handling (Columns Dropping, Imputation)
+    b. Variables Encoding (1-HE)
+    c. Anomalies, Outliers
+    d. Correlations between variables (Pairs plot)
 
 2) Clustering
     K-Means/K-Medoids (PAM)
