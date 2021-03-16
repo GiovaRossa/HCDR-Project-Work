@@ -1,0 +1,33 @@
+1) EDA
+    NaN Handling (Columns Dropping, Imputation)
+    Variables Encoding (1-HE)
+    Anomalies, Outliers
+    Correlations between variables (Pairs plot)
+
+2) Clustering
+    K-Means/K-Medoids (PAM)
+
+3) Logistic Regression
+    Pure Logistic
+    Cross Validation
+    Lasso (Optional)
+
+4) Regression Trees
+    Tuning
+
+5) Classifiers Selection/Interpretation
+
+6) Report
+
+
+Bruttocao:
+Hanno usato solo l’application, no EDA,
+
+
+- Add at least two custom features to your dataset and evaluate their contribution      OK
+- Compare at least two prediction methods, after fine-tuning their parameters           OK
+- Investigate instances with almost correct predictions and with completely wrong
+predictions. Do they have some peculiarities? Any strange feature distribution?         OK
+- Can be done in groups, multiply the work by the size of the group                     OK
+- To get a good mark: more prediction methods, not trashing features, external data,
+prediction methods not discussed during the curse.                                      BOH
