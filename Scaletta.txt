@@ -1,24 +1,27 @@
 1. EDA
     a. NaN Handling (Columns Dropping, Imputation)
     b. Variables Encoding (1-HE)
-    c. Anomalies, Outliers
-    d. Correlations between variables (Pairs plot)
 
-2) Clustering
-    K-Means/K-Medoids (PAM)
+2. Model Comparator
 
-3) Logistic Regression
-    Pure Logistic
-    Cross Validation
-    Lasso (Optional)
+3. Fitted Models
+    a. Pure Logistic Regression
+    b. Ridge Logistic Regression
+    c. Lasso Logistic Regression
 
-4) Regression Trees
-    Tuning
+4. Custom Features
 
-5) Classifiers Selection/Interpretation
+4. Clustering
+    a. K-Means
 
-6) Report
+5. Regression Trees
+    a. Cross Validation
 
+6. Classifiers Selection/Interpretation
+
+7. Report
+
+* Da bilanciare il dataframe TARGET
 
 Bruttocao:
 Hanno usato solo l’application, no EDA,
