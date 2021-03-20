@@ -10,27 +10,17 @@
 
 6. Cross Validation
 
-7. Fitted Models
-    a. Pure Logistic Regression
-    b. Ridge Logistic Regression
-    c. Lasso Logistic Regression
+7. Logistic Regression
+    a. Pure
+    b. Ridge
+    c. Lasso
 
-4. Custom Features
+8. Decision Trees Classifier
 
-4. Clustering
-    a. K-Means
+9. Decision Trees Features Ranker
 
-5. Regression Trees
-    a. Cross Validation
+10. Clustering K-Means
 
-6. Classifiers Selection/Interpretation
-
-7. Report
-
-* Da bilanciare il dataframe TARGET
-
-Bruttocao:
-Hanno usato solo l’application, no EDA,
 
 
 - Add at least two custom features to your dataset and evaluate their contribution      OK
