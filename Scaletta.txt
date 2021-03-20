@@ -1,10 +1,16 @@
-1. EDA
-    a. NaN Handling (Columns Dropping, Imputation)
-    b. Variables Encoding (1-HE)
+1. Import Libraries and Data
 
-2. Model Comparator
+2. Define Functions
 
-3. Fitted Models
+3. NaN Handling (Columns Dropping, Imputation)
+
+4. Adding Custom Features
+
+5. Variables Encoding (1-HE + Label Encoding)
+
+6. Cross Validation
+
+7. Fitted Models
     a. Pure Logistic Regression
     b. Ridge Logistic Regression
     c. Lasso Logistic Regression
